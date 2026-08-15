@@ -3,7 +3,7 @@ A hands-on Machine Learning learning repository documenting my journey from the 
 
 ## 📚 Learning Resources & Attribution
 
-Learning Resource: Akarsh Vyas
-Development & Practice: My own implementations and experiments
-Platform: Google Colab
-Datasets: Publicly available datasets / Kaggle
+Learning Resource: Akarsh Vyas,
+Development & Practice: My own implementations and experiments,
+Platform: Google Colab,
+Datasets: Publicly available datasets / Kaggle.
